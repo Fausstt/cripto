@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cripto/static/css/main.a029c094.css",
-    "main.js": "/cripto/static/js/main.bcd7226b.js",
+    "main.css": "/cripto/static/css/main.6a553311.css",
+    "main.js": "/cripto/static/js/main.2d81de28.js",
     "index.html": "/cripto/index.html",
-    "main.a029c094.css.map": "/cripto/static/css/main.a029c094.css.map",
-    "main.bcd7226b.js.map": "/cripto/static/js/main.bcd7226b.js.map"
+    "main.6a553311.css.map": "/cripto/static/css/main.6a553311.css.map",
+    "main.2d81de28.js.map": "/cripto/static/js/main.2d81de28.js.map"
   },
   "entrypoints": [
-    "static/css/main.a029c094.css",
-    "static/js/main.bcd7226b.js"
+    "static/css/main.6a553311.css",
+    "static/js/main.2d81de28.js"
   ]
 }
